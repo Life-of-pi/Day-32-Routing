@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.date{
+    display: block;
+    text-align: left;
+}
